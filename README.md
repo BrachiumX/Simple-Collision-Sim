@@ -11,4 +11,4 @@ Left and right arrow keys to change framerate <br>
 
 ## Usage
 
-Since it uses SDL, SDL dll is needed. So in order to run, you need to clone the repository and then run the Windows/Linux executable.
+Since it uses SDL, SDL dll is needed. So in order to run, you need to clone the repository and compile it while linking it with SDL.
